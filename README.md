@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @r41ng3l
-- 👀 I’m interested in code abyss
+- 👀 I’m interested in abyss coding
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on creating the abyss we are all hoping for.
+- 💞️ I’m looking to collaborate on creating the abyss we are all hoping for
 - 📫 How to reach me
 
 <!---
